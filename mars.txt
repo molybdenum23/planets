@@ -1,1 +1,2 @@
-mars is red
+Mars is red.
+The two moons may be a problem.
